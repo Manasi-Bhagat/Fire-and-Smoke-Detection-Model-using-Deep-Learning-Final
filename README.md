@@ -28,7 +28,7 @@ Python 3.10 or higher
 pip (Python package installer)
 
 Clone the project
-git clone https://github.com/Manasi-Bhagat/fire_smoke_detection.git
+git clone https://
 
 Go to the project directory
 conda create -n fire python=3.10 -y
