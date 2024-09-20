@@ -58,9 +58,9 @@ Scalability: Limited to physical installation of sensors.
 This technology provides a practical, scalable and cost-effective solution to fire detection with the potential to save lives and reduce damage by enabling faster response times.
 
 # Future Work
-*Data Augmentation: Enhance the dataset with more diverse fire scenarios to improve model robustness.
-*Real-Time Video Analysis: Extend the model to process real-time video feeds.
-*Cloud Deployment: Deploy the model on cloud platforms for wider accessibility and scalability.
+* Data Augmentation: Enhance the dataset with more diverse fire scenarios to improve model robustness.
+* Real-Time Video Analysis: Extend the model to process real-time video feeds.
+* Cloud Deployment: Deploy the model on cloud platforms for wider accessibility and scalability.
 
 # Conclusion
 Fire and smoke detection using CNN is a powerful deep learning solution that offers a modern alternative to traditional fire detection methods. With its ability to detect fires using visual cues, this model can be seamlessly integrated into existing surveillance systems, providing faster and more accurate fire detection capabilities.
