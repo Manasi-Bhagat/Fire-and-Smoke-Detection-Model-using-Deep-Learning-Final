@@ -9,9 +9,9 @@ As an alternative, this project explores the use of computer vision and deep lea
 
 # Objectives
 The main objectives of this project are:
-To develop a fire detection model using CNNs that can accurately identify fires from images.
-To compare the performance of the CNN-based model with a transfer learning approach using VGG16.
-To build a web application that allows users to run the fire detection model on a local server.
+*To develop a fire detection model using CNNs that can accurately identify fires from images.
+*To compare the performance of the CNN-based model with a transfer learning approach using VGG16.
+*To build a web application that allows users to run the fire detection model on a local server.
 
 # Folder Details
 notebooks/: Contains Jupyter notebooks for data exploration, model training, and transfer learning.
@@ -24,19 +24,19 @@ requirements.txt: Lists all the dependencies needed to run the project.
 # How To Run The Project
 
 ## Prerequisites
-Python 3.10 or higher
+*Python 3.10 or higher
 pip (Python package installer)
 
-Clone the project
+*Clone the project
 git clone https://github.com/Manasi-Bhagat/Fire-and-Smoke-Detection-Model-using-Deep-Learning-Final
 
-Go to the project directory
+*Go to the project directory
 conda create -n fire python=3.10 -y
 
-Install dependencies
+*Install dependencies
  pip install -r requirements.txt
  
-Run the Web Application
+*Run the Web Application
  python app.py
 
 # View Results
@@ -51,16 +51,16 @@ Cost: Expensive, as they require specialized hardware.
 Scalability: Limited to physical installation of sensors.
 
 # Fire_and_smoke_detection(Deep Learning-Based)
-Vision-Based Detection: Uses images from existing surveillance cameras, eliminating the need for additional hardware.
-Response Time: Faster detection as it identifies visual cues directly from images.
-Cost-Effective: Lowers costs by utilizing existing infrastructure.
-Scalable: Can be easily integrated into any system with camera surveillance, making it highly scalable.
+*Vision-Based Detection: Uses images from existing surveillance cameras, eliminating the need for additional hardware.
+*Response Time: Faster detection as it identifies visual cues directly from images.
+*Cost-Effective: Lowers costs by utilizing existing infrastructure.
+*Scalable: Can be easily integrated into any system with camera surveillance, making it highly scalable.
 This technology provides a practical, scalable and cost-effective solution to fire detection with the potential to save lives and reduce damage by enabling faster response times.
 
 # Future Work
-Data Augmentation: Enhance the dataset with more diverse fire scenarios to improve model robustness.
-Real-Time Video Analysis: Extend the model to process real-time video feeds.
-Cloud Deployment: Deploy the model on cloud platforms for wider accessibility and scalability.
+*Data Augmentation: Enhance the dataset with more diverse fire scenarios to improve model robustness.
+*Real-Time Video Analysis: Extend the model to process real-time video feeds.
+*Cloud Deployment: Deploy the model on cloud platforms for wider accessibility and scalability.
 
 # Conclusion
 Fire and smoke detection using CNN is a powerful deep learning solution that offers a modern alternative to traditional fire detection methods. With its ability to detect fires using visual cues, this model can be seamlessly integrated into existing surveillance systems, providing faster and more accurate fire detection capabilities.
